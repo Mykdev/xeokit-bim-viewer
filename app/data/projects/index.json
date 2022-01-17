@@ -1,6 +1,10 @@
 {
   "projects": [
     {
+            "id": "OTMH",
+            "name": "oakville Trafalgar Memorial Hospital"
+        },
+    {
       "id": "Duplex",
       "name": "Duplex"
     },
